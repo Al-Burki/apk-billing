@@ -42,8 +42,8 @@
 apt install git curl -y
 
 # Clone repository
-git clone https://github.com/alijayanet/gembok-bill
-cd gembok-bill
+git clone https://github.com/Al-Burki/apk-billing
+cd apk-billing
 ```
 
 ### 2. Install Dependencies
@@ -163,13 +163,13 @@ npm start
 npm install -g pm2
 
 # Start aplikasi
-pm2 start app.js --name gembok-bill
+pm2 start app.js --name apk-billing
 
 # Monitor aplikasi
 pm2 monit
 
 # View logs
-pm2 logs gembok-bill
+pm2 logs apk-billing
 ```
 
 ### 6. Setup WhatsApp Bot
