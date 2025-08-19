@@ -1,0 +1,14 @@
+[2025-08-19T08:41:29.775Z] [ERROR] Error starting PPPoE monitoring: getSetting(...).toLowerCase is not a function
+[2025-08-19T08:43:02.256Z] [ERROR] Failed to send PPPoE notification to 6281947215703 after 2 retries
+[2025-08-19T08:43:35.411Z] [ERROR] Failed to send PPPoE notification to 62838076656 after 2 retries
+[2025-08-19T08:44:02.405Z] [ERROR] Failed to send PPPoE notification to 6281947215703 after 2 retries
+[2025-08-19T08:44:08.658Z] [ERROR] Failed to send PPPoE notification to 62822180947 after 2 retries
+[2025-08-19T08:44:35.514Z] [ERROR] Failed to send PPPoE notification to 62838076656 after 2 retries
+[2025-08-19T08:45:08.543Z] [ERROR] Failed to send PPPoE notification to 62822180947 after 2 retries
+[2025-08-19T08:48:40.001Z] [ERROR] Error starting PPPoE monitoring: getSetting(...).toLowerCase is not a function
+[2025-08-19T08:50:12.417Z] [ERROR] Failed to send PPPoE notification to 6281947215703 after 2 retries
+[2025-08-19T08:50:45.445Z] [ERROR] Failed to send PPPoE notification to 62838076656 after 2 retries
+[2025-08-19T08:51:12.370Z] [ERROR] Failed to send PPPoE notification to 6281947215703 after 2 retries
+[2025-08-19T08:51:18.471Z] [ERROR] Failed to send PPPoE notification to 62822180947 after 2 retries
+[2025-08-19T08:51:45.391Z] [ERROR] Failed to send PPPoE notification to 62838076656 after 2 retries
+[2025-08-19T08:52:18.423Z] [ERROR] Failed to send PPPoE notification to 62822180947 after 2 retries
