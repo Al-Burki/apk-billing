@@ -472,4 +472,4 @@ Aplikasi ini dikembangkan untuk keperluan ISP dan membutuhkan konfigurasi yang t
 
 ---
 
-**Made with ❤️ by [Ali Jaya](https://github.com/alijayanet)**
+
